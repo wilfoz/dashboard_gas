@@ -549,4 +549,4 @@ def controller(n_intervals, play, stop, rangeslider, controller):
 
 # Run server
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
